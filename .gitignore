@@ -1,0 +1,11 @@
+# Compiled programs
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Local build folders
+build/
+cmake-build-*/
+.build-temp/
